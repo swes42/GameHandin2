@@ -15,11 +15,11 @@ C:/Users/soend/Documents/4.semester/Game/GameHandin2/GameHandin2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60853
+61592
 Successfully changed project path to: C:/Users/soend/Documents/4.semester/Game/GameHandin2/GameHandin2
 C:/Users/soend/Documents/4.semester/Game/GameHandin2/GameHandin2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 81.74 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 32.79 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
@@ -35,199 +35,261 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56116
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56340
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005025 seconds.
+Registered in 0.002686 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 60.87 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 70.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.906 seconds
+- Completed reload, in  2.786 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001910 seconds.
+Registered in 0.001189 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.035 seconds
+- Completed reload, in  2.438 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
-Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1167 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.6 MB.
-System memory in use after: 72.7 MB.
+Unloading 1172 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.6 MB.
+System memory in use after: 73.7 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1628.
-Total: 5.338900 ms (FindLiveObjects: 0.265900 ms CreateObjectMapping: 0.180100 ms MarkObjects: 4.632900 ms  DeleteObjects: 0.257000 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/OrcWarrior_prefab.prefab
-  artifactKey: Guid(2b08b0266e6a17647be46ab1ce2b3d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/OrcWarrior_prefab.prefab using Guid(2b08b0266e6a17647be46ab1ce2b3d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ed013311dbd68b5bdde64ee79e711b') in 0.575362 seconds
-  Import took 0.583259 seconds .
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 3.883800 ms (FindLiveObjects: 0.252400 ms CreateObjectMapping: 0.095900 ms MarkObjects: 3.206600 ms  DeleteObjects: 0.325200 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000382 seconds.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/Bark2.prefab
-  artifactKey: Guid(4c95394f502f96f48baa6239306d4595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/Bark2.prefab using Guid(4c95394f502f96f48baa6239306d4595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeabfdb88d3d8eaf62aa63b575d7851d') in 0.051366 seconds
-  Import took 0.055828 seconds .
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_forward.FBX
+  artifactKey: Guid(834e65f16fa33e54da306a0c84cb2df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_forward.FBX using Guid(834e65f16fa33e54da306a0c84cb2df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0d289477a9255d2624fb457766db70') in 0.286605 seconds
+  Import took 0.292577 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000555 seconds.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/NewBrush 1.brush
-  artifactKey: Guid(1716b45d096ab2a44bfbfde7f111184c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/NewBrush 1.brush using Guid(1716b45d096ab2a44bfbfde7f111184c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa2087b799c69ac5481fa1b9bfb5a4e') in 0.063762 seconds
-  Import took 0.067818 seconds .
+  Time since last request: 0.000571 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_backwards.FBX
+  artifactKey: Guid(170ca84ebfa7e0e42ba6f49d42cd0c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_walk_backwards.FBX using Guid(170ca84ebfa7e0e42ba6f49d42cd0c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361e08b93500549e9c33f10055a1cff2') in 0.018763 seconds
+  Import took 0.023239 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000651 seconds.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/Stronghold.prefab
-  artifactKey: Guid(94cd86138d9233a4f8d62276eb74c283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/Stronghold.prefab using Guid(94cd86138d9233a4f8d62276eb74c283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '751a6529ec29e1d327619b947cef8b7c') in 0.089667 seconds
-  Import took 0.095423 seconds .
+  Time since last request: 0.000404 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_attack.FBX
+  artifactKey: Guid(31c1a2a498086974eaa9d10c7f42d24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_attack.FBX using Guid(31c1a2a498086974eaa9d10c7f42d24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89989e4dee5f3d69f0e574d6859647ac') in 0.020182 seconds
+  Import took 0.023880 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000559 seconds.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/Bark1.prefab
-  artifactKey: Guid(d0509e396ee4f214da34472e0f49e441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/Bark1.prefab using Guid(d0509e396ee4f214da34472e0f49e441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54cc41ecb0daab61c6e72b50b1b10edc') in 0.038688 seconds
-  Import took 0.043870 seconds .
+  Time since last request: 0.000400 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_death_standing.FBX
+  artifactKey: Guid(ec13975053ac9b04ba71483c47d8eed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_death_standing.FBX using Guid(ec13975053ac9b04ba71483c47d8eed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ed8578c3320c8fd9ac989ca1a0c5e4') in 0.023888 seconds
+  Import took 0.027592 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000306 seconds.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/TreeParent.prefab
-  artifactKey: Guid(78a200e6b77343845b0ee855f19b3ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/TreeParent.prefab using Guid(78a200e6b77343845b0ee855f19b3ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cdbde76fc911b50d766b0e933af502c') in 0.032353 seconds
-  Import took 0.037882 seconds .
+  Time since last request: 0.000322 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_idle.FBX
+  artifactKey: Guid(0aaab721d87c3d84daddd7c7a85d44fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Animations/free_sample_zombie@zombie_idle.FBX using Guid(0aaab721d87c3d84daddd7c7a85d44fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00f64ec0c9394e7ddb88d17430c4d32') in 0.020332 seconds
+  Import took 0.024877 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000390 seconds.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/NewLayer 1.terrainlayer
-  artifactKey: Guid(d9146796d044e0543808429d2bc0dec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/NewLayer 1.terrainlayer using Guid(d9146796d044e0543808429d2bc0dec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d31a9e18cffbe34223a480cf7e9ea21') in 0.076340 seconds
-  Import took 0.080706 seconds .
+  Time since last request: 1.979934 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/High Quality/FreeZombie.prefab
+  artifactKey: Guid(0c74bed2ad49fad4d94fca86441ad49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/High Quality/FreeZombie.prefab using Guid(0c74bed2ad49fad4d94fca86441ad49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0abb711a9cb28dca9e64b527487552b3') in 0.521941 seconds
+  Import took 0.528257 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000543 seconds.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/NewBrush.brush
-  artifactKey: Guid(7e0b793b0b9946f46a3e0938b335e463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/NewBrush.brush using Guid(7e0b793b0b9946f46a3e0938b335e463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e1ff911e29b3351fe9c12c4bb91b32') in 0.049534 seconds
-  Import took 0.053027 seconds .
+  Time since last request: 8.006568 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/Mobile/MobileFreeZombie.prefab
+  artifactKey: Guid(e45a69c421144304c8d8176026d3fd7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/Base/Mobile/MobileFreeZombie.prefab using Guid(e45a69c421144304c8d8176026d3fd7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b969dfe6d63c095e22ba7c7995d20a93') in 0.237724 seconds
+  Import took 0.243188 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000367 seconds.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/Footman_prefab.prefab
-  artifactKey: Guid(9dbd4ebf8cd638846be77516fbdfe22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/Footman_prefab.prefab using Guid(9dbd4ebf8cd638846be77516fbdfe22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b6983fc4a212fa5c65b8a9d3129347') in 0.065092 seconds
-  Import took 0.070068 seconds .
+  Time since last request: 7.664882 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/High Quality/FreeZombieSimpleMovement.prefab
+  artifactKey: Guid(a8145fd98e506094980d05080bde9072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/High Quality/FreeZombieSimpleMovement.prefab using Guid(a8145fd98e506094980d05080bde9072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7062953cf93432dc1cafef8238be43b9') in 0.069459 seconds
+  Import took 0.076116 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000526 seconds.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/NewLayer.terrainlayer
-  artifactKey: Guid(d7cfe66364ecce34db7c544eac45e186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/NewLayer.terrainlayer using Guid(d7cfe66364ecce34db7c544eac45e186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c215edbbffece7399cc46aa16e782d') in 0.044824 seconds
-  Import took 0.048191 seconds .
+  Time since last request: 4.060124 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/Mobile/MobileFreeZombieSimpleMovement.prefab
+  artifactKey: Guid(2869f50f08793594889040a0ec4b691e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Prefabs/SimpleMovement/Mobile/MobileFreeZombieSimpleMovement.prefab using Guid(2869f50f08793594889040a0ec4b691e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5fae07a86be3b4a3fc2218ebac5ae01') in 0.072176 seconds
+  Import took 0.084231 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/Chest.prefab
-  artifactKey: Guid(8aef335ab5191ea4fb5079988c2772a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Other Models/Medival Strategy Low-Poly Pack/Prefabs/Chest.prefab using Guid(8aef335ab5191ea4fb5079988c2772a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '376307c473c75e9c12a75311132b46ec') in 0.038256 seconds
-  Import took 0.041454 seconds .
+  Time since last request: 4.359218 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Models/Character_Pack_Zombie_Sample.FBX
+  artifactKey: Guid(8c53cffd52097cf4582f0a090c9a833e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Models/Character_Pack_Zombie_Sample.FBX using Guid(8c53cffd52097cf4582f0a090c9a833e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d963884e5755abaab87d228302d51e') in 0.150997 seconds
+  Import took 0.157798 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.779449 seconds.
-  path: Assets/UI/pexels-jeswin-thomas-700971.jpg
-  artifactKey: Guid(553f38e3da003fd4ca52b84b746cef2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/pexels-jeswin-thomas-700971.jpg using Guid(553f38e3da003fd4ca52b84b746cef2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cad95b376b348e71e95cceda3aec022') in 0.276395 seconds
-  Import took 0.280153 seconds .
+  Time since last request: 297.561318 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieFree.cs
+  artifactKey: Guid(aa2670a4e7c366946a3397330117d659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieFree.cs using Guid(aa2670a4e7c366946a3397330117d659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '255a948f8f314eb7f440999648ad2cbf') in 0.024631 seconds
+  Import took 0.028115 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.518212 seconds.
-  path: Assets/UI/Menu.unity
-  artifactKey: Guid(462afbba1e011c94fb16d29a4e71a81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Menu.unity using Guid(462afbba1e011c94fb16d29a4e71a81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d28338f9fe37e37a045818ccdd43b40') in 0.010592 seconds
-  Import took 0.014862 seconds .
+  Time since last request: 0.022703 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieFree.cs
+  artifactKey: Guid(aa2670a4e7c366946a3397330117d659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieFree.cs using Guid(aa2670a4e7c366946a3397330117d659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '255a948f8f314eb7f440999648ad2cbf') in 0.004698 seconds
+  Import took 0.008301 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.011024 seconds.
-  path: Assets/UI/Menu.unity
-  artifactKey: Guid(462afbba1e011c94fb16d29a4e71a81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UI/Menu.unity using Guid(462afbba1e011c94fb16d29a4e71a81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d28338f9fe37e37a045818ccdd43b40') in 0.006017 seconds
-  Import took 0.009055 seconds .
+  Time since last request: 3.441413 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCharacterControl.cs
+  artifactKey: Guid(58d6da23a2cbdbf419e581162aa2eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCharacterControl.cs using Guid(58d6da23a2cbdbf419e581162aa2eaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad99cca4972cc340234ab954f6dda60b') in 0.023980 seconds
+  Import took 0.028762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.675892 seconds.
+  path: Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCameraLogic.cs
+  artifactKey: Guid(90ded75707e6bc14a9c7a555fceb1d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Supercyan Character Pack Zombie Sample/Scripts/ZombieCameraLogic.cs using Guid(90ded75707e6bc14a9c7a555fceb1d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85f5fb1b1a1c6fcd72dc933fefb8889') in 0.019426 seconds
+  Import took 0.024353 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001216 seconds.
+Registered in 0.001658 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.978 seconds
+- Completed reload, in  2.426 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1147 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.6 MB.
-System memory in use after: 85.7 MB.
+Unloading 1150 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 86.9 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1647.
-Total: 2.552800 ms (FindLiveObjects: 0.320700 ms CreateObjectMapping: 0.142700 ms MarkObjects: 1.958300 ms  DeleteObjects: 0.127900 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 4.366400 ms (FindLiveObjects: 0.308000 ms CreateObjectMapping: 0.167500 ms MarkObjects: 3.677000 ms  DeleteObjects: 0.210900 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001819 seconds.
+Registered in 0.001616 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.649 seconds
+- Completed reload, in  2.138 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1147 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.6 MB.
-System memory in use after: 85.7 MB.
+Unloading 1150 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 87.0 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1649.
-Total: 3.836300 ms (FindLiveObjects: 0.250600 ms CreateObjectMapping: 0.133900 ms MarkObjects: 3.308900 ms  DeleteObjects: 0.139900 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 3.969900 ms (FindLiveObjects: 0.355500 ms CreateObjectMapping: 0.099200 ms MarkObjects: 3.366800 ms  DeleteObjects: 0.146100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000917 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.157 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1151 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 2.199100 ms (FindLiveObjects: 0.159100 ms CreateObjectMapping: 0.054700 ms MarkObjects: 1.881800 ms  DeleteObjects: 0.102200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1600.884435 seconds.
+  path: Assets/UI/Menu.unity
+  artifactKey: Guid(462afbba1e011c94fb16d29a4e71a81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Menu.unity using Guid(462afbba1e011c94fb16d29a4e71a81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c09bf10c5160d36525074c9e4ac4177') in 0.029536 seconds
+  Import took 0.033772 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002926 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.077 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1151 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 2.680900 ms (FindLiveObjects: 0.141400 ms CreateObjectMapping: 0.059800 ms MarkObjects: 2.285700 ms  DeleteObjects: 0.192300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.479467 seconds.
+  path: Assets/Scenes/TowerGame.unity
+  artifactKey: Guid(50cb63194016d924f988c8e6f4d0c954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TowerGame.unity using Guid(50cb63194016d924f988c8e6f4d0c954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d62e755be7a0a2caccf5ac23319d35') in 0.037856 seconds
+  Import took 0.042334 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
